@@ -13,6 +13,6 @@
 
 ### PARTE 2-Tutorial em video
 
-### Assista o tutorial em video aqui: [![Tutorial](https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](?)
+### Assista o tutorial em video aqui: [![Tutorial](https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/qQApiFAcJT0?si=EcOMkKpBmEW6STUu)
 
 # QUALQUER SUGESTÃO DE COISAS QUE EU POSSO ENSINAR, ENTREM NO MEU DISCORD PARA MANDAREM PARA MIM!!!
